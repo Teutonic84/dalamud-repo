@@ -7,7 +7,6 @@
     "Description": "Used to auto track dungeon attire sets for the glamour dresser. /dot brings up the window. After first initialization, open the glam dresser and armoire once to initiate a scan for the current attire sets in there.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Teutonic84/dalamud-repo",
-    "IconUrl": "https://teutonic84.github.io/dalamud-repo/plugins/DungeonOutfitTracker/icon.png",
     "Tags": ["tracker", "plugin", "gearset", "outfit"],
     "Category": "Utility",
     "DownloadLinkInstall": "https://teutonic84.github.io/dalamud-repo/plugins/DungeonOutfitTracker/latest.zip",
