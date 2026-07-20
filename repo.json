@@ -9,7 +9,7 @@
     "RepoUrl": "https://github.com/Teutonic84/dalamud-repo",
     "Tags": ["tracker", "plugin", "gearset", "outfit"],
     "Category": "Utility",
-    "DownloadLinkInstall": "https://Teutonic84.github.io/dalamud-repo/plugins/DungeonOutfitTracker/latest.zip",
+    "DownloadLinkInstall": "https://teutonic84.github.io/dalamud-repo/plugins/DungeonOutfitTracker/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdate": 1721426400
