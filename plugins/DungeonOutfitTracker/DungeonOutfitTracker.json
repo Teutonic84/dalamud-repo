@@ -1,0 +1,21 @@
+{
+  "Author": "Kloe Fluffypaws@Balmung",
+  "Name": "Dungeon Outfit Tracker",
+  "InternalName": "DungeonOutfitTracker",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Used to auto track dungeon attire sets for the glamour dresser. /dot brings up the window. After first initialization, open the glam dresser and armoire once to initiate a scan for the current attire sets in there.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "tracker",
+    "plugin",
+    "gearset",
+    "outfit"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Tracks glamour dresser dungeon Attire Sets.",
+  "AcceptsFeedback": true
+}
